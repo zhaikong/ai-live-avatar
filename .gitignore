@@ -13,3 +13,5 @@ persona_*.md
 recordings/
 research/
 static/vendor/*.js
+config.bat
+node_modules

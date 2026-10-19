@@ -12,6 +12,10 @@ to the browser; the stage page only receives the per-session RTC join token.
 """
 from __future__ import annotations
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import argparse
 import asyncio
 import copy
